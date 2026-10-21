@@ -293,9 +293,7 @@ h1 {
     }
 }
 
-.all{
-    
-}
+
 @media (prefers-reduced-motion: reduce) {
     *,
     *::before,
